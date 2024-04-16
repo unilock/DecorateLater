@@ -1,0 +1,10 @@
+@nilmod {
+	name: "DecorateLater";
+	description: "Already decorating!!";
+	authors: "unilock";
+	version: "${version}";
+}
+
+entrypoints {
+	premain: "cc.unilock.decolater.DecoLaterPremain";
+}
